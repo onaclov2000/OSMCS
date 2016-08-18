@@ -6,3 +6,5 @@ Lectures can be found on Udacity.
 
 ## LightFields:
 http://graphics.stanford.edu/projects/lightfield/
+https://bitbucket.org/stativ/lyli
+
