@@ -11,3 +11,7 @@ http://docs.opencv.org/trunk/da/d22/tutorial_py_canny.html
 ## Light Reading:
 
 http://www.robots.ox.ac.uk/~vgg/hzbook/
+
+
+## Additional resources
+https://hackerlists.com/computer-vision-resources/
