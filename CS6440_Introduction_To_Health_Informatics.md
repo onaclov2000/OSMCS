@@ -1,6 +1,8 @@
 Video Lectures (direct links)
-1. TBD
-2. TBD
+
+0. TBD https://www.udacity.com/course/viewer#!/c-ud514/l-1626738573/m-9230293110
+1. TBD https://www.udacity.com/course/viewer#!/c-ud514/l-1138799169/m-9238670587
+2. TBD https://www.udacity.com/course/viewer#!/c-ud514/l-1462408540/e-1488328609/m-1488328611
 3. TBD
 4. TBD
 5. TBD
