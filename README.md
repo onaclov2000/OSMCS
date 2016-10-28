@@ -6,5 +6,8 @@ Survival guide:
 https://github.com/pyjarrett/OMSCS_Survival_Guide
 
 
-Slack Group
+Slack Group:
 http://omscs-study.slack.com
+
+Surveys:
+https://omscentral.com/reviews/8803-BDHI
