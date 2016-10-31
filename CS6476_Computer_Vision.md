@@ -2,6 +2,8 @@
 
 ## Alternate Assignments (Spring 15)
 http://www.cc.gatech.edu/~afb/classes/CS4495-Spring2015-OMS/
+
+## Disparity Map
 https://sites.google.com/site/5kk73gpu2010/assignments/stereo-vision#TOC-Update-Disparity-Map
 
 ## Edge Detection:
