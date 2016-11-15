@@ -15,5 +15,8 @@ http://docs.opencv.org/trunk/da/d22/tutorial_py_canny.html
 http://www.robots.ox.ac.uk/~vgg/hzbook/
 
 
-## Additional resources
+## Additional resources:
 https://hackerlists.com/computer-vision-resources/
+
+## Other GT Class assignments:
+http://www.cc.gatech.edu/~hays/compvision/
