@@ -20,3 +20,6 @@ https://hackerlists.com/computer-vision-resources/
 
 ## Other GT Class assignments:
 http://www.cc.gatech.edu/~hays/compvision/
+
+(Advanced CV)
+http://www.cc.gatech.edu/~hays/7476/
