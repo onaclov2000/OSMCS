@@ -14,6 +14,8 @@ http://docs.opencv.org/trunk/da/d22/tutorial_py_canny.html
 
 http://www.robots.ox.ac.uk/~vgg/hzbook/
 
+## Gaussian/Laplacian Pyramids:
+http://docs.opencv.org/3.1.0/dc/dff/tutorial_py_pyramids.html
 
 ## Additional resources:
 https://hackerlists.com/computer-vision-resources/
