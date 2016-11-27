@@ -5,6 +5,8 @@ All resources I find will be added here.
 Survival guide:
 https://github.com/pyjarrett/OMSCS_Survival_Guide
 
+Reddit Wiki:
+https://www.reddit.com/r/OMSCS/wiki/index
 
 Slack Group:
 http://omscs-study.slack.com
