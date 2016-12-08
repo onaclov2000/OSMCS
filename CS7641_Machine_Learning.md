@@ -26,3 +26,8 @@ Watch, take notes, understand, the "unsupervised learning" lectures (4 chapters,
 Choose a framework. Either R, or Python. Read the respective Packt book, and get your hands dirty doing ML with your datasets (and also learn a plotting library). 
 It will be hell if you try to understand lots of information before working on assignment 1, try to find two datasets, and just try to understand how the frameworks work. A1 needs a lot of knowledge (if you haven't been exposed to ML knowledge before)
 If you are comfortable with your toolbox in advance, you won't waste time just learning how to use scikit/plotting/etc instead of working on your analysis.
+
+
+# datasetss?
+
+https://docs.google.com/spreadsheets/d/1AQvZ7-Kg0lSZtG1wlgbIsrm90HaTZrJGQMz-uKRRlFw/edit#gid=0
