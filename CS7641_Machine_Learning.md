@@ -31,3 +31,6 @@ If you are comfortable with your toolbox in advance, you won't waste time just l
 # datasetss?
 
 https://docs.google.com/spreadsheets/d/1AQvZ7-Kg0lSZtG1wlgbIsrm90HaTZrJGQMz-uKRRlFw/edit#gid=0
+
+# Book?
+http://neuralnetworksanddeeplearning.com  
