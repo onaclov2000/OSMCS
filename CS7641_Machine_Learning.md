@@ -34,3 +34,6 @@ https://docs.google.com/spreadsheets/d/1AQvZ7-Kg0lSZtG1wlgbIsrm90HaTZrJGQMz-uKRR
 
 # Book?
 http://neuralnetworksanddeeplearning.com  
+
+# Youtube goodness
+https://www.youtube.com/watch?v=GUtlrDbHhJM&index=5&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA
