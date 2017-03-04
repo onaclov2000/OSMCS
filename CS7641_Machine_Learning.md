@@ -37,3 +37,6 @@ http://neuralnetworksanddeeplearning.com
 
 # Youtube goodness
 https://www.youtube.com/watch?v=GUtlrDbHhJM&index=5&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA
+
+# Something to Read?
+http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
