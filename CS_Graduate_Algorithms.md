@@ -5,6 +5,8 @@ https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
 
 https://courses.csail.mit.edu/6.006/spring11/exams/notes3-dp
 
+https://www.quora.com/What-are-the-top-10-most-popular-dynamic-programming-problems-among-interviewers
+
 Ultimately from what I've understood from the MIT lectures, there are 5 steps to really solving a DP.
 
 1. Figure out how many sub problems there are
