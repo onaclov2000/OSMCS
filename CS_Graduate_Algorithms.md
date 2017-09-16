@@ -27,3 +27,6 @@ suffix which means it makes sense to start from the end of the 'list' and work b
 
 # Office Hours
 https://www.youtube.com/watch?v=SyeHo630M_w&feature=youtu.be&t=366
+
+https://www.youtube.com/watch?v=HBqJ_vn6Afs
+
