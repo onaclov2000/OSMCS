@@ -20,3 +20,8 @@ http://lightfield-forum.com/2015/01/lytro-in-linux-lyli-aims-to-become-open-sour
 http://eclecti.cc/computervision/reverse-engineering-the-lytro-lfp-file-format
 
 http://lightfield-forum.com/2013/03/lytro-image-manipulation-linux-tools-to-insert-images-into-lightfield-pictures/
+
+
+## Awesome Computational Photography Camera
+
+light.co/camera
