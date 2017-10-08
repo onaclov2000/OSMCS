@@ -22,6 +22,8 @@ http://eclecti.cc/computervision/reverse-engineering-the-lytro-lfp-file-format
 http://lightfield-forum.com/2013/03/lytro-image-manipulation-linux-tools-to-insert-images-into-lightfield-pictures/
 
 
-## Awesome Computational Photography Camera
+## Computational Photography Camera(s)
 
-light.co/camera
+light.co/camera L16
+
+https://www.lytro.com/press/academic-papers Lytro (these are academic papers).
