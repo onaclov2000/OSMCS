@@ -24,6 +24,6 @@ http://lightfield-forum.com/2013/03/lytro-image-manipulation-linux-tools-to-inse
 
 ## Computational Photography Camera(s)
 
-light.co/camera L16
+http://light.co/camera L16
 
 https://www.lytro.com/press/academic-papers Lytro (these are academic papers).
