@@ -31,4 +31,5 @@ https://www.youtube.com/watch?v=SyeHo630M_w&feature=youtu.be&t=366
 https://www.youtube.com/watch?v=HBqJ_vn6Afs
 
 # Course Webpage
-https://8803ga.wordpress.com/lecture-schedule/
+(old) https://8803ga.wordpress.com/lecture-schedule/
+https://gt-algorithms.com/spring18/
