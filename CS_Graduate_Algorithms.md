@@ -24,6 +24,8 @@ prefix which means it makes sense to start from the beginning of the 'list' and 
 suffix which means it makes sense to start from the end of the 'list' and work backwards (correct?)
    sometimes the later values need to be considered 
 
+# Other good notes
+http://jeffe.cs.illinois.edu/teaching/algorithms/
 
 # Office Hours
 https://www.youtube.com/watch?v=SyeHo630M_w&feature=youtu.be&t=366
