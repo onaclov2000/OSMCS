@@ -30,6 +30,7 @@ http://jeffe.cs.illinois.edu/teaching/algorithms/
 # Office Hours
 ## Spring '18
 https://www.youtube.com/watch?v=Qx_Nbv0bhfI
+https://www.youtube.com/watch?v=wXGrolB-So8
 
 ## Older
 https://www.youtube.com/watch?v=SyeHo630M_w&feature=youtu.be&t=366
