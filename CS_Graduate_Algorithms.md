@@ -28,6 +28,10 @@ suffix which means it makes sense to start from the end of the 'list' and work b
 http://jeffe.cs.illinois.edu/teaching/algorithms/
 
 # Office Hours
+## Spring '18
+https://www.youtube.com/watch?v=Qx_Nbv0bhfI
+
+## Older
 https://www.youtube.com/watch?v=SyeHo630M_w&feature=youtu.be&t=366
 
 https://www.youtube.com/watch?v=HBqJ_vn6Afs
