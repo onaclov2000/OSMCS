@@ -39,3 +39,6 @@ https://www.youtube.com/watch?v=HBqJ_vn6Afs
 # Course Webpage
 (old) https://8803ga.wordpress.com/lecture-schedule/
 https://gt-algorithms.com/spring18/
+
+# Book
+http://www.freetechbooks.com/index.php/algorithms-t311.html
