@@ -46,6 +46,9 @@ http://www.freetechbooks.com/index.php/algorithms-t311.html
 
 # Online Resources:
 https://www.geeksforgeeks.org/fundamentals-of-algorithms/#DynamicProgramming
+
 https://www.quora.com/How-can-one-start-solving-dynamic-programming-problems
+
 https://www.hackerrank.com/domains/algorithms/dynamic-programming
+
 https://leetcode.com/tag/dynamic-programming/
