@@ -30,6 +30,7 @@ http://jeffe.cs.illinois.edu/teaching/algorithms/
 # Office Hours
 ## Spring '18
 https://www.youtube.com/watch?v=Qx_Nbv0bhfI
+
 https://www.youtube.com/watch?v=wXGrolB-So8
 
 ## Older
@@ -39,10 +40,14 @@ https://www.youtube.com/watch?v=HBqJ_vn6Afs
 
 # Course Webpage
 (old) https://8803ga.wordpress.com/lecture-schedule/
+
 https://gt-algorithms.com/spring18/
 
 # Book
 http://www.freetechbooks.com/index.php/algorithms-t311.html
+
+http://books.goalkicker.com/AlgorithmsBook/
+
 
 # Online Resources:
 https://www.geeksforgeeks.org/fundamentals-of-algorithms/#DynamicProgramming
