@@ -48,6 +48,7 @@ http://www.freetechbooks.com/index.php/algorithms-t311.html
 
 http://books.goalkicker.com/AlgorithmsBook/
 
+http://www.cse.iitd.ernet.in/~ssen/csl356/notes/root.pdf
 
 # Online Resources:
 https://www.geeksforgeeks.org/fundamentals-of-algorithms/#DynamicProgramming
