@@ -61,3 +61,7 @@ https://leetcode.com/tag/dynamic-programming/
 
 # Big Oh Comparisons
 http://cooervo.github.io/Algorithms-DataStructures-BigONotation/
+
+# Recurrence Calculations
+http://jeffe.cs.illinois.edu/teaching/algorithms/notes/99-recurrences.pdf
+
